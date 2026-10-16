@@ -58,3 +58,5 @@
 #include "Frustum.h"
 #include "Triangle.h"
 #include "OBB.h"
+#include "Fraction.h"
+#include "Decimal.h"
