@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.22)
 
 project(MathLib
-    VERSION      1.0.0
+    VERSION      0.1.0
     DESCRIPTION  "Header-only C++20 math library for real-time audio (JUCE)"
     LANGUAGES    CXX
 )
